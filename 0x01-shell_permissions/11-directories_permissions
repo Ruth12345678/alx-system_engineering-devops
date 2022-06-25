@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod a+x -type d
+sudo chmod a+X *
